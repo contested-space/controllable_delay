@@ -1,0 +1,48 @@
+node_modules
+public
+.tmp
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+/server/api/upload/uploaded-files/tmp/*
+/server/api/upload/uploaded-files/upl/*
+
+# Node.js stuff
+pids
+*.pid
+*.seed
+.grunt
+node_modules/
+.lock-wscript
+.tmp
+.idea
+client/bower_components
+dist
+
+# Logs
+logs/
+*.log
+
+# Emacs stuff
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+.\#*
+*_flymake.*
+
+#Mac Stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
