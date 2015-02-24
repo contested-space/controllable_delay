@@ -1,7 +1,7 @@
 declare name "The New Controllable Delay V3";
 declare version "1.0";
 declare author "F";
-declare license "Open like your mother";
+declare license "APACHE-2.0";
 
 import("math.lib"); 
 import("music.lib");
